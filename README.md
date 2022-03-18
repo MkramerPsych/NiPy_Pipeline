@@ -5,6 +5,6 @@
 This repository contains my final project for Data Science for Laboratory Research
 
 Files include:
-- `AFNI_Python_Testing.ipynb` : Main Notebook containing functions for the pipeline
+- `NiPy_Pipeline.ipynb` : Main Notebook containing functions for the pipeline
 - `environment.yml` : Conda environment for running notebook
 

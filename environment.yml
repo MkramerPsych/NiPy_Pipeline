@@ -1,0 +1,13 @@
+name: NiPy_Pipeline
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - pip:
+    - nibabel
+    - nilearn
+    - nltools
+    - nipype
+    - pybids
